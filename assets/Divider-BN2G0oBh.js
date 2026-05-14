@@ -1,0 +1,1 @@
+import{j as r}from"./index-iJo1p69x.js";function e(){return r.jsx("div",{className:"flex justify-center my-6",children:r.jsx("div",{className:"divider-arrow",children:r.jsx("span",{})})})}export{e as D};
